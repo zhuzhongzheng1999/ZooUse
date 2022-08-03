@@ -1,0 +1,16 @@
+{
+  "name": "@zoouse/request",
+  "version": "0.0.3",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "author": "zhuzhongzheng",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
